@@ -54,3 +54,8 @@ Game commands :
 | **A**         | Go to the previous game |
 | **Z**         | Go to the next game     |
 
+
+ #### Project realised by:
+ - **Alexandre Sachs : [alexandre.sachs@epitech.eu](https://github.com/SachsA)**
+ - **Thomas Bleneau : [thomas.bleneau@epitech.eu](https://github.com/TBlenoX)**
+ - **Antoine Pelletant : [antoine.pelletant@epitech.eu]**
