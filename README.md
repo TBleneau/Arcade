@@ -26,11 +26,9 @@ Important ! The program need to be launch with a graphical library.
 Game Libraries :
 ---------------------
 
-| Game         |
-| -----------: |
-| **Nibbler**  |
-| **Pacman**   |
-| **SolarFox** |
+* Nibbler
+* Pacman
+* SolarFox
 
 The user has the choice between this list of games.  
 
